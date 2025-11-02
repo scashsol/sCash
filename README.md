@@ -1,21 +1,21 @@
 <div align="center">
   <img height="170x" src=https://avatars.githubusercontent.com/u/53411373?s=400&u=63e0d19509e394c04937223e1509b71e9767cd9b&v=4/>
-  <h1>Zolana</h1>
+  <h1>ZSOL</h1>
 
   <p>
     <strong>Privacy-First Program Framework for Solana Ecosystem</strong>
   </p>
 
   <p>
-    <a href="https://Zolana-lang.com"><img alt="Tutorials" src="https://img.shields.io/badge/docs-tutorials-blueviolet" /></a>
-    <a href="https://discord.gg/Zolana"><img alt="Discord Chat" src="https://img.shields.io/discord/889577356681945098?color=blueviolet" /></a>
-    <a href="https://opensource.org/licenses/Apache-2.0"><img alt="License" src="https://img.shields.io/github/license/Zolana/Zolana?color=blueviolet" /></a>
+    <a href="https://ZSOL-lang.com"><img alt="Tutorials" src="https://img.shields.io/badge/docs-tutorials-blueviolet" /></a>
+    <a href="https://discord.gg/ZSOL"><img alt="Discord Chat" src="https://img.shields.io/discord/889577356681945098?color=blueviolet" /></a>
+    <a href="https://opensource.org/licenses/Apache-2.0"><img alt="License" src="https://img.shields.io/github/license/ZSOL/ZSOL?color=blueviolet" /></a>
   </p>
 </div>
 
-## What is Zolana?
+## What is ZSOL?
 
-Zolana is a groundbreaking framework built for the Solana ecosystem, providing developers with seamless tools for writing privacy-focused programs and creating encrypted tokens that protect user transaction data while maintaining Solana's incredible speed and low costs.
+ZSOL is a groundbreaking framework built for the Solana ecosystem, providing developers with seamless tools for writing privacy-focused programs and creating encrypted tokens that protect user transaction data while maintaining Solana's incredible speed and low costs.
 
 - **Unified Privacy API**: One codebase for encrypted transactions across Solana
 - **Private Token Creation**: Create SPL tokens with built-in encryption and zero-knowledge proofs
@@ -24,10 +24,10 @@ Zolana is a groundbreaking framework built for the Solana ecosystem, providing d
 - **TypeScript package**: Type-safe clients from IDL for encrypted communication
 - **CLI and workspace management**: Complete privacy-first application development
 
-Zolana is the first framework to bring Zcash-style privacy to Solana, enabling truly private transactions at scale.
+ZSOL is the first framework to bring Zcash-style privacy to Solana, enabling truly private transactions at scale.
 
 > [!NOTE]
-> Zolana combines Solana's speed and affordability with enterprise-grade privacy. With 400ms block times, $0.00025 average transaction fees, and support for 65,000+ TPS, you get the performance you need with the privacy users deserve. If you're familiar with Anchor or native Solana development, you'll feel right at home with Zolana's privacy-enhanced approach.
+> ZSOL combines Solana's speed and affordability with enterprise-grade privacy. With 400ms block times, $0.00025 average transaction fees, and support for 65,000+ TPS, you get the performance you need with the privacy users deserve. If you're familiar with Anchor or native Solana development, you'll feel right at home with ZSOL's privacy-enhanced approach.
 
 ## Key Features
 
@@ -40,13 +40,13 @@ Zolana is the first framework to bring Zcash-style privacy to Solana, enabling t
 - **Lightning Fast**: Leverage Solana's 400ms block times and sub-second finality
 - **Ultra Low Fees**: Deploy and transact with ~$0.00025 median transaction fees
 
-## Why Solana & Zolana?
+## Why Solana & ZSOL?
 
 ### Solana (2025 Performance)
 Solana continues to lead in performance with 400ms block times, processing over 65,000 transactions per second at peak, with average fees remaining under $0.001. The network handles millions of daily transactions with consistent sub-second finality.
 
-### Zolana - Privacy for Solana
-Zolana leverages Solana's infrastructure to provide:
+### ZSOL - Privacy for Solana
+ZSOL leverages Solana's infrastructure to provide:
 - **Zero-Knowledge Architecture**: Built on proven ZK-SNARK technology
 - **Full SPL Compatibility**: Private versions of any SPL token
 - **Solana Ecosystem Integration**: Seamless interaction with existing Solana programs
@@ -54,23 +54,23 @@ Zolana leverages Solana's infrastructure to provide:
 
 ## Getting Started
 
-For a quickstart guide and in-depth tutorials, see the [Zolana book](https://book.Zolana-lang.com) and the [Zolana documentation](https://Zolana-lang.com).
+For a quickstart guide and in-depth tutorials, see the [ZSOL book](https://book.ZSOL-lang.com) and the [ZSOL documentation](https://ZSOL-lang.com).
 
-To jump straight to examples, go [here](https://github.com/Zolana/Zolana/tree/master/examples). For the latest Rust and TypeScript API documentation, see [docs.rs](https://docs.rs/Zolana-lang) and the [typedoc](https://www.Zolana-lang.com/docs/clients/typescript).
+To jump straight to examples, go [here](https://github.com/ZSOL/ZSOL/tree/master/examples). For the latest Rust and TypeScript API documentation, see [docs.rs](https://docs.rs/ZSOL-lang) and the [typedoc](https://www.ZSOL-lang.com/docs/clients/typescript).
 
 ## Packages
 
 | Package                 | Description                                              | Version                                                                                                                          | Docs                                                                                                            |
 | :---------------------- | :------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------- |
-| `Zolana-lang`           | Rust primitives for writing privacy-preserving programs         | [![Crates.io](https://img.shields.io/crates/v/Zolana-lang?color=blue)](https://crates.io/crates/Zolana-lang)                     | [![Docs.rs](https://docs.rs/Zolana-lang/badge.svg)](https://docs.rs/Zolana-lang)                                |
-| `Zolana-spl`            | CPI clients for private SPL tokens and standards | [![crates](https://img.shields.io/crates/v/Zolana-spl?color=blue)](https://crates.io/crates/Zolana-spl)                          | [![Docs.rs](https://docs.rs/Zolana-spl/badge.svg)](https://docs.rs/Zolana-spl)                                  |
-| `Zolana-client`         | Rust client for Zolana privacy programs              | [![crates](https://img.shields.io/crates/v/Zolana-client?color=blue)](https://crates.io/crates/Zolana-client)                    | [![Docs.rs](https://docs.rs/Zolana-client/badge.svg)](https://docs.rs/Zolana-client)                            |
-| `@Zolana/sdk`           | TypeScript client for Zolana programs                    | [![npm](https://img.shields.io/npm/v/@Zolana/sdk.svg?color=blue)](https://www.npmjs.com/package/@Zolana/sdk)                     | [![Docs](https://img.shields.io/badge/docs-typedoc-blue)](https://Zolana.github.io/Zolana/ts/index.html)        |
-| `@Zolana/cli`           | CLI to support building and managing private apps    | [![npm](https://img.shields.io/npm/v/@Zolana/cli.svg?color=blue)](https://www.npmjs.com/package/@Zolana/cli)                     | [![Docs](https://img.shields.io/badge/docs-typedoc-blue)](https://Zolana.github.io/Zolana/cli/commands.html)    |
+| `ZSOL-lang`           | Rust primitives for writing privacy-preserving programs         | [![Crates.io](https://img.shields.io/crates/v/ZSOL-lang?color=blue)](https://crates.io/crates/ZSOL-lang)                     | [![Docs.rs](https://docs.rs/ZSOL-lang/badge.svg)](https://docs.rs/ZSOL-lang)                                |
+| `ZSOL-spl`            | CPI clients for private SPL tokens and standards | [![crates](https://img.shields.io/crates/v/ZSOL-spl?color=blue)](https://crates.io/crates/ZSOL-spl)                          | [![Docs.rs](https://docs.rs/ZSOL-spl/badge.svg)](https://docs.rs/ZSOL-spl)                                  |
+| `ZSOL-client`         | Rust client for ZSOL privacy programs              | [![crates](https://img.shields.io/crates/v/ZSOL-client?color=blue)](https://crates.io/crates/ZSOL-client)                    | [![Docs.rs](https://docs.rs/ZSOL-client/badge.svg)](https://docs.rs/ZSOL-client)                            |
+| `@ZSOL/sdk`           | TypeScript client for ZSOL programs                    | [![npm](https://img.shields.io/npm/v/@ZSOL/sdk.svg?color=blue)](https://www.npmjs.com/package/@ZSOL/sdk)                     | [![Docs](https://img.shields.io/badge/docs-typedoc-blue)](https://ZSOL.github.io/ZSOL/ts/index.html)        |
+| `@ZSOL/cli`           | CLI to support building and managing private apps    | [![npm](https://img.shields.io/npm/v/@ZSOL/cli.svg?color=blue)](https://www.npmjs.com/package/@ZSOL/cli)                     | [![Docs](https://img.shields.io/badge/docs-typedoc-blue)](https://ZSOL.github.io/ZSOL/cli/commands.html)    |
 
 ## Note
 
-- **Zolana is in active development, so all APIs are subject to change.**
+- **ZSOL is in active development, so all APIs are subject to change.**
 - **This code is unaudited. Use at your own risk.**
 
 ## Examples
@@ -78,8 +78,8 @@ To jump straight to examples, go [here](https://github.com/Zolana/Zolana/tree/ma
 Here's a private counter program that maintains an encrypted count, where only the designated `authority` can increment and view the real value:
 
 ```rust
-use Zolana_lang::prelude::*;
-use Zolana_lang::privacy::*;
+use ZSOL_lang::prelude::*;
+use ZSOL_lang::privacy::*;
 
 declare_id!("Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS");
 
@@ -177,23 +177,23 @@ pub enum ErrorCode {
 
 ```bash
 # Create a private SPL token with encrypted balances
-Zolana token create --name "PrivateToken" --symbol "PVTK" --privacy shielded
+ZSOL token create --name "PrivateToken" --symbol "PVTK" --privacy shielded
 
 # Deploy with privacy features
-Zolana deploy --privacy-level high
+ZSOL deploy --privacy-level high
 
 # Create shielded addresses
-Zolana address generate --type shielded
+ZSOL address generate --type shielded
 
 # Send encrypted transaction
-Zolana transfer --to <shielded-address> --amount 100 --private
+ZSOL transfer --to <shielded-address> --amount 100 --private
 ```
 
 ### Private Token Transfer Example
 
 ```rust
-use Zolana_lang::prelude::*;
-use Zolana_spl::private_token::*;
+use ZSOL_lang::prelude::*;
+use ZSOL_spl::private_token::*;
 
 declare_id!("PrivateTokenProgram111111111111111111111111");
 
@@ -242,11 +242,11 @@ mod private_transfer {
 }
 ```
 
-For more, see the [examples](https://github.com/Zolana/Zolana/tree/master/examples) and [tests](https://github.com/Zolana/Zolana/tree/master/tests) directories.
+For more, see the [examples](https://github.com/ZSOL/ZSOL/tree/master/examples) and [tests](https://github.com/ZSOL/ZSOL/tree/master/tests) directories.
 
 ## Architecture
 
-Zolana uses a privacy-first runtime that integrates cryptographic primitives directly into Solana programs. The framework handles:
+ZSOL uses a privacy-first runtime that integrates cryptographic primitives directly into Solana programs. The framework handles:
 
 - **Zero-Knowledge Proofs**: Generate and verify ZK-SNARKs for private transactions
 - **Encrypted State**: Store sensitive data on-chain with homomorphic encryption
@@ -257,7 +257,7 @@ Zolana uses a privacy-first runtime that integrates cryptographic primitives dir
 
 ## Privacy Technology
 
-Zolana implements multiple privacy-preserving techniques:
+ZSOL implements multiple privacy-preserving techniques:
 
 ### Zero-Knowledge Proofs
 - **ZK-SNARKs**: Succinct non-interactive arguments of knowledge
@@ -307,7 +307,7 @@ Zolana implements multiple privacy-preserving techniques:
 - **Confidential Voting**: Anonymous governance participation
 - **Selective Disclosure**: Compliance and audit capabilities
 
-## Why Choose Zolana?
+## Why Choose ZSOL?
 
 ### For Developers
 - **Familiar Tools**: Built on Anchor and Solana standards
@@ -332,26 +332,26 @@ Zolana implements multiple privacy-preserving techniques:
 
 ## License
 
-Zolana is licensed under [Apache 2.0](./LICENSE).
+ZSOL is licensed under [Apache 2.0](./LICENSE).
 
-Unless you explicitly state otherwise, any contribution intentionally submitted for inclusion in Zolana by you, as defined in the Apache-2.0 license, shall be licensed as above, without any additional terms or conditions.
+Unless you explicitly state otherwise, any contribution intentionally submitted for inclusion in ZSOL by you, as defined in the Apache-2.0 license, shall be licensed as above, without any additional terms or conditions.
 
 ## Contribution
 
-Thank you for your interest in contributing to Zolana!
+Thank you for your interest in contributing to ZSOL!
 Please see the [CONTRIBUTING.md](./CONTRIBUTING.md) to learn how.
 
 ## The Future is Private
 
-Zolana represents the future of blockchain privacy: a world where users control their financial data, where transactions are confidential by default, and where privacy and performance coexist seamlessly on Solana.
+ZSOL represents the future of blockchain privacy: a world where users control their financial data, where transactions are confidential by default, and where privacy and performance coexist seamlessly on Solana.
 
-With Solana's commitment to scalability and decentralization, combined with Zolana's privacy-first approach, we're building the foundation for truly private, decentralized finance.
+With Solana's commitment to scalability and decentralization, combined with ZSOL's privacy-first approach, we're building the foundation for truly private, decentralized finance.
 
 ### Thanks ❤️
 
 <div align="center">
-  <a href="https://github.com/Zolana/Zolana/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=Zolana/Zolana" width="100%" />
+  <a href="https://github.com/ZSOL/ZSOL/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=ZSOL/ZSOL" width="100%" />
   </a>
 </div>
 
@@ -361,7 +361,7 @@ With Solana's commitment to scalability and decentralization, combined with Zola
 
 - [Solana Official Documentation](https://docs.solana.com/)
 - [Zero-Knowledge Proofs Explained](https://z.cash/technology/zksnarks/)
-- [Zolana Network Documentation](#) (Coming soon)
+- [ZSOL Network Documentation](#) (Coming soon)
 - [Solana Developer Resources](https://solana.com/developers)
 - [Privacy-Preserving Cryptocurrencies Research](https://crypto.stanford.edu/)
 - [SPL Token Documentation](https://spl.solana.com/token)
@@ -370,19 +370,19 @@ With Solana's commitment to scalability and decentralization, combined with Zola
 
 ## Security & Audits
 
-Privacy and security are paramount. Zolana undergoes regular security audits by leading blockchain security firms. For security researchers, please see our [SECURITY.md](./SECURITY.md) for responsible disclosure.
+Privacy and security are paramount. ZSOL undergoes regular security audits by leading blockchain security firms. For security researchers, please see our [SECURITY.md](./SECURITY.md) for responsible disclosure.
 
 ## Community
 
 Join our growing community of privacy advocates and developers:
 
-- **Discord**: [discord.gg/Zolana](https://discord.gg/Zolana)
-- **Twitter**: [@Zolana](https://twitter.com/Zolana)
-- **Forum**: [forum.Zolana.com](https://forum.Zolana.com)
-- **Telegram**: [t.me/Zolana](https://t.me/Zolana)
+- **Discord**: [discord.gg/ZSOL](https://discord.gg/ZSOL)
+- **Twitter**: [@ZSOL](https://twitter.com/ZSOL)
+- **Forum**: [forum.ZSOL.com](https://forum.ZSOL.com)
+- **Telegram**: [t.me/ZSOL](https://t.me/ZSOL)
 
 ## Acknowledgments
 
-Zolana builds on the groundbreaking work of privacy-focused cryptocurrencies like Zcash and combines it with Solana's industry-leading performance. Special thanks to the Solana Foundation, the zero-knowledge cryptography research community, and all our contributors.
+ZSOL builds on the groundbreaking work of privacy-focused cryptocurrencies like Zcash and combines it with Solana's industry-leading performance. Special thanks to the Solana Foundation, the zero-knowledge cryptography research community, and all our contributors.
 
-**Privacy is a right, not a privilege. Build with Zolana.**
+**Privacy is a right, not a privilege. Build with ZSOL.**
