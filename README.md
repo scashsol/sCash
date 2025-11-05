@@ -1,21 +1,21 @@
 <div align="center">
-  <img height="170x" src=https://avatars.githubusercontent.com/u/53411373?s=400&u=63e0d19509e394c04937223e1509b71e9767cd9b&v=4/>
-  <h1>sCash</h1>
+  <img height="170x" src=https://avatars.githubusercontent.com/u/53411373?s=400&u=eaa8fa2c44957f320a85c43c5f5383855d23fc51&v=4/>
+  <h1>Privacy Coin</h1>
 
   <p>
     <strong>Privacy-First Program Framework for Solana Ecosystem</strong>
   </p>
 
   <p>
-    <a href="https://sCash-lang.com"><img alt="Tutorials" src="https://img.shields.io/badge/docs-tutorials-blueviolet" /></a>
-    <a href="https://discord.gg/sCash"><img alt="Discord Chat" src="https://img.shields.io/discord/889577356681945098?color=blueviolet" /></a>
-    <a href="https://opensource.org/licenses/Apache-2.0"><img alt="License" src="https://img.shields.io/github/license/sCash/sCash?color=blueviolet" /></a>
+    <a href="https://Privacy Coin-lang.com"><img alt="Tutorials" src="https://img.shields.io/badge/docs-tutorials-blueviolet" /></a>
+    <a href="https://discord.gg/Privacy Coin"><img alt="Discord Chat" src="https://img.shields.io/discord/889577356681945098?color=blueviolet" /></a>
+    <a href="https://opensource.org/licenses/Apache-2.0"><img alt="License" src="https://img.shields.io/github/license/Privacy Coin/Privacy Coin?color=blueviolet" /></a>
   </p>
 </div>
 
-## What is sCash?
+## What is Privacy Coin?
 
-sCash is a groundbreaking framework built for the Solana ecosystem, providing developers with seamless tools for writing privacy-focused programs and creating encrypted tokens that protect user transaction data while maintaining Solana's incredible speed and low costs.
+Privacy Coin is a groundbreaking framework built for the Solana ecosystem, providing developers with seamless tools for writing privacy-focused programs and creating encrypted tokens that protect user transaction data while maintaining Solana's incredible speed and low costs.
 
 - **Unified Privacy API**: One codebase for encrypted transactions across Solana
 - **Private Token Creation**: Create SPL tokens with built-in encryption and zero-knowledge proofs
@@ -24,10 +24,10 @@ sCash is a groundbreaking framework built for the Solana ecosystem, providing de
 - **TypeScript package**: Type-safe clients from IDL for encrypted communication
 - **CLI and workspace management**: Complete privacy-first application development
 
-sCash is the first framework to bring Zcash-style privacy to Solana, enabling truly private transactions at scale.
+Privacy Coin is the first framework to bring Zcash-style privacy to Solana, enabling truly private transactions at scale.
 
 > [!NOTE]
-> sCash combines Solana's speed and affordability with enterprise-grade privacy. With 400ms block times, $0.00025 average transaction fees, and support for 65,000+ TPS, you get the performance you need with the privacy users deserve. If you're familiar with Anchor or native Solana development, you'll feel right at home with sCash's privacy-enhanced approach.
+> Privacy Coin combines Solana's speed and affordability with enterprise-grade privacy. With 400ms block times, $0.00025 average transaction fees, and support for 65,000+ TPS, you get the performance you need with the privacy users deserve. If you're familiar with Anchor or native Solana development, you'll feel right at home with Privacy Coin's privacy-enhanced approach.
 
 ## Key Features
 
@@ -40,13 +40,13 @@ sCash is the first framework to bring Zcash-style privacy to Solana, enabling tr
 - **Lightning Fast**: Leverage Solana's 400ms block times and sub-second finality
 - **Ultra Low Fees**: Deploy and transact with ~$0.00025 median transaction fees
 
-## Why Solana & sCash?
+## Why Solana & Privacy Coin?
 
 ### Solana (2025 Performance)
 Solana continues to lead in performance with 400ms block times, processing over 65,000 transactions per second at peak, with average fees remaining under $0.001. The network handles millions of daily transactions with consistent sub-second finality.
 
-### sCash - Privacy for Solana
-sCash leverages Solana's infrastructure to provide:
+### Privacy Coin - Privacy for Solana
+Privacy Coin leverages Solana's infrastructure to provide:
 - **Zero-Knowledge Architecture**: Built on proven ZK-SNARK technology
 - **Full SPL Compatibility**: Private versions of any SPL token
 - **Solana Ecosystem Integration**: Seamless interaction with existing Solana programs
@@ -54,23 +54,23 @@ sCash leverages Solana's infrastructure to provide:
 
 ## Getting Started
 
-For a quickstart guide and in-depth tutorials, see the [sCash book](https://book.sCash-lang.com) and the [sCash documentation](https://sCash-lang.com).
+For a quickstart guide and in-depth tutorials, see the [Privacy Coin book](https://book.Privacy Coin-lang.com) and the [Privacy Coin documentation](https://Privacy Coin-lang.com).
 
-To jump straight to examples, go [here](https://github.com/sCash/sCash/tree/master/examples). For the latest Rust and TypeScript API documentation, see [docs.rs](https://docs.rs/sCash-lang) and the [typedoc](https://www.sCash-lang.com/docs/clients/typescript).
+To jump straight to examples, go [here](https://github.com/Privacy Coin/Privacy Coin/tree/master/examples). For the latest Rust and TypeScript API documentation, see [docs.rs](https://docs.rs/Privacy Coin-lang) and the [typedoc](https://www.Privacy Coin-lang.com/docs/clients/typescript).
 
 ## Packages
 
 | Package                 | Description                                              | Version                                                                                                                          | Docs                                                                                                            |
 | :---------------------- | :------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------- |
-| `sCash-lang`           | Rust primitives for writing privacy-preserving programs         | [![Crates.io](https://img.shields.io/crates/v/sCash-lang?color=blue)](https://crates.io/crates/sCash-lang)                     | [![Docs.rs](https://docs.rs/sCash-lang/badge.svg)](https://docs.rs/sCash-lang)                                |
-| `sCash-spl`            | CPI clients for private SPL tokens and standards | [![crates](https://img.shields.io/crates/v/sCash-spl?color=blue)](https://crates.io/crates/sCash-spl)                          | [![Docs.rs](https://docs.rs/sCash-spl/badge.svg)](https://docs.rs/sCash-spl)                                  |
-| `sCash-client`         | Rust client for sCash privacy programs              | [![crates](https://img.shields.io/crates/v/sCash-client?color=blue)](https://crates.io/crates/sCash-client)                    | [![Docs.rs](https://docs.rs/sCash-client/badge.svg)](https://docs.rs/sCash-client)                            |
-| `@sCash/sdk`           | TypeScript client for sCash programs                    | [![npm](https://img.shields.io/npm/v/@sCash/sdk.svg?color=blue)](https://www.npmjs.com/package/@sCash/sdk)                     | [![Docs](https://img.shields.io/badge/docs-typedoc-blue)](https://sCash.github.io/sCash/ts/index.html)        |
-| `@sCash/cli`           | CLI to support building and managing private apps    | [![npm](https://img.shields.io/npm/v/@sCash/cli.svg?color=blue)](https://www.npmjs.com/package/@sCash/cli)                     | [![Docs](https://img.shields.io/badge/docs-typedoc-blue)](https://sCash.github.io/sCash/cli/commands.html)    |
+| `Privacy Coin-lang`           | Rust primitives for writing privacy-preserving programs         | [![Crates.io](https://img.shields.io/crates/v/Privacy Coin-lang?color=blue)](https://crates.io/crates/Privacy Coin-lang)                     | [![Docs.rs](https://docs.rs/Privacy Coin-lang/badge.svg)](https://docs.rs/Privacy Coin-lang)                                |
+| `Privacy Coin-spl`            | CPI clients for private SPL tokens and standards | [![crates](https://img.shields.io/crates/v/Privacy Coin-spl?color=blue)](https://crates.io/crates/Privacy Coin-spl)                          | [![Docs.rs](https://docs.rs/Privacy Coin-spl/badge.svg)](https://docs.rs/Privacy Coin-spl)                                  |
+| `Privacy Coin-client`         | Rust client for Privacy Coin privacy programs              | [![crates](https://img.shields.io/crates/v/Privacy Coin-client?color=blue)](https://crates.io/crates/Privacy Coin-client)                    | [![Docs.rs](https://docs.rs/Privacy Coin-client/badge.svg)](https://docs.rs/Privacy Coin-client)                            |
+| `@Privacy Coin/sdk`           | TypeScript client for Privacy Coin programs                    | [![npm](https://img.shields.io/npm/v/@Privacy Coin/sdk.svg?color=blue)](https://www.npmjs.com/package/@Privacy Coin/sdk)                     | [![Docs](https://img.shields.io/badge/docs-typedoc-blue)](https://Privacy Coin.github.io/Privacy Coin/ts/index.html)        |
+| `@Privacy Coin/cli`           | CLI to support building and managing private apps    | [![npm](https://img.shields.io/npm/v/@Privacy Coin/cli.svg?color=blue)](https://www.npmjs.com/package/@Privacy Coin/cli)                     | [![Docs](https://img.shields.io/badge/docs-typedoc-blue)](https://Privacy Coin.github.io/Privacy Coin/cli/commands.html)    |
 
 ## Note
 
-- **sCash is in active development, so all APIs are subject to change.**
+- **Privacy Coin is in active development, so all APIs are subject to change.**
 - **This code is unaudited. Use at your own risk.**
 
 ## Examples
@@ -78,8 +78,8 @@ To jump straight to examples, go [here](https://github.com/sCash/sCash/tree/mast
 Here's a private counter program that maintains an encrypted count, where only the designated `authority` can increment and view the real value:
 
 ```rust
-use sCash_lang::prelude::*;
-use sCash_lang::privacy::*;
+use Privacy Coin_lang::prelude::*;
+use Privacy Coin_lang::privacy::*;
 
 declare_id!("Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS");
 
@@ -177,23 +177,23 @@ pub enum ErrorCode {
 
 ```bash
 # Create a private SPL token with encrypted balances
-sCash token create --name "PrivateToken" --symbol "PVTK" --privacy shielded
+Privacy Coin token create --name "PrivateToken" --symbol "PVTK" --privacy shielded
 
 # Deploy with privacy features
-sCash deploy --privacy-level high
+Privacy Coin deploy --privacy-level high
 
 # Create shielded addresses
-sCash address generate --type shielded
+Privacy Coin address generate --type shielded
 
 # Send encrypted transaction
-sCash transfer --to <shielded-address> --amount 100 --private
+Privacy Coin transfer --to <shielded-address> --amount 100 --private
 ```
 
 ### Private Token Transfer Example
 
 ```rust
-use sCash_lang::prelude::*;
-use sCash_spl::private_token::*;
+use Privacy Coin_lang::prelude::*;
+use Privacy Coin_spl::private_token::*;
 
 declare_id!("PrivateTokenProgram111111111111111111111111");
 
@@ -242,11 +242,11 @@ mod private_transfer {
 }
 ```
 
-For more, see the [examples](https://github.com/sCash/sCash/tree/master/examples) and [tests](https://github.com/sCash/sCash/tree/master/tests) directories.
+For more, see the [examples](https://github.com/Privacy Coin/Privacy Coin/tree/master/examples) and [tests](https://github.com/Privacy Coin/Privacy Coin/tree/master/tests) directories.
 
 ## Architecture
 
-sCash uses a privacy-first runtime that integrates cryptographic primitives directly into Solana programs. The framework handles:
+Privacy Coin uses a privacy-first runtime that integrates cryptographic primitives directly into Solana programs. The framework handles:
 
 - **Zero-Knowledge Proofs**: Generate and verify ZK-SNARKs for private transactions
 - **Encrypted State**: Store sensitive data on-chain with homomorphic encryption
@@ -257,7 +257,7 @@ sCash uses a privacy-first runtime that integrates cryptographic primitives dire
 
 ## Privacy Technology
 
-sCash implements multiple privacy-preserving techniques:
+Privacy Coin implements multiple privacy-preserving techniques:
 
 ### Zero-Knowledge Proofs
 - **ZK-SNARKs**: Succinct non-interactive arguments of knowledge
@@ -307,7 +307,7 @@ sCash implements multiple privacy-preserving techniques:
 - **Confidential Voting**: Anonymous governance participation
 - **Selective Disclosure**: Compliance and audit capabilities
 
-## Why Choose sCash?
+## Why Choose Privacy Coin?
 
 ### For Developers
 - **Familiar Tools**: Built on Anchor and Solana standards
@@ -332,26 +332,26 @@ sCash implements multiple privacy-preserving techniques:
 
 ## License
 
-sCash is licensed under [Apache 2.0](./LICENSE).
+Privacy Coin is licensed under [Apache 2.0](./LICENSE).
 
-Unless you explicitly state otherwise, any contribution intentionally submitted for inclusion in sCash by you, as defined in the Apache-2.0 license, shall be licensed as above, without any additional terms or conditions.
+Unless you explicitly state otherwise, any contribution intentionally submitted for inclusion in Privacy Coin by you, as defined in the Apache-2.0 license, shall be licensed as above, without any additional terms or conditions.
 
 ## Contribution
 
-Thank you for your interest in contributing to sCash!
+Thank you for your interest in contributing to Privacy Coin!
 Please see the [CONTRIBUTING.md](./CONTRIBUTING.md) to learn how.
 
 ## The Future is Private
 
-sCash represents the future of blockchain privacy: a world where users control their financial data, where transactions are confidential by default, and where privacy and performance coexist seamlessly on Solana.
+Privacy Coin represents the future of blockchain privacy: a world where users control their financial data, where transactions are confidential by default, and where privacy and performance coexist seamlessly on Solana.
 
-With Solana's commitment to scalability and decentralization, combined with sCash's privacy-first approach, we're building the foundation for truly private, decentralized finance.
+With Solana's commitment to scalability and decentralization, combined with Privacy Coin's privacy-first approach, we're building the foundation for truly private, decentralized finance.
 
 ### Thanks ❤️
 
 <div align="center">
-  <a href="https://github.com/sCash/sCash/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=sCash/sCash" width="100%" />
+  <a href="https://github.com/Privacy Coin/Privacy Coin/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=Privacy Coin/Privacy Coin" width="100%" />
   </a>
 </div>
 
@@ -361,7 +361,7 @@ With Solana's commitment to scalability and decentralization, combined with sCas
 
 - [Solana Official Documentation](https://docs.solana.com/)
 - [Zero-Knowledge Proofs Explained](https://z.cash/technology/zksnarks/)
-- [sCash Network Documentation](#) (Coming soon)
+- [Privacy Coin Network Documentation](#) (Coming soon)
 - [Solana Developer Resources](https://solana.com/developers)
 - [Privacy-Preserving Cryptocurrencies Research](https://crypto.stanford.edu/)
 - [SPL Token Documentation](https://spl.solana.com/token)
@@ -370,19 +370,19 @@ With Solana's commitment to scalability and decentralization, combined with sCas
 
 ## Security & Audits
 
-Privacy and security are paramount. sCash undergoes regular security audits by leading blockchain security firms. For security researchers, please see our [SECURITY.md](./SECURITY.md) for responsible disclosure.
+Privacy and security are paramount. Privacy Coin undergoes regular security audits by leading blockchain security firms. For security researchers, please see our [SECURITY.md](./SECURITY.md) for responsible disclosure.
 
 ## Community
 
 Join our growing community of privacy advocates and developers:
 
-- **Discord**: [discord.gg/sCash](https://discord.gg/sCash)
-- **Twitter**: [@sCash](https://twitter.com/sCash)
-- **Forum**: [forum.sCash.com](https://forum.sCash.com)
-- **Telegram**: [t.me/sCash](https://t.me/sCash)
+- **Discord**: [discord.gg/Privacy Coin](https://discord.gg/Privacy Coin)
+- **Twitter**: [@Privacy Coin](https://twitter.com/Privacy Coin)
+- **Forum**: [forum.Privacy Coin.com](https://forum.Privacy Coin.com)
+- **Telegram**: [t.me/Privacy Coin](https://t.me/Privacy Coin)
 
 ## Acknowledgments
 
-sCash builds on the groundbreaking work of privacy-focused cryptocurrencies like Zcash and combines it with Solana's industry-leading performance. Special thanks to the Solana Foundation, the zero-knowledge cryptography research community, and all our contributors.
+Privacy Coin builds on the groundbreaking work of privacy-focused cryptocurrencies like Zcash and combines it with Solana's industry-leading performance. Special thanks to the Solana Foundation, the zero-knowledge cryptography research community, and all our contributors.
 
-**Privacy is a right, not a privilege. Build with sCash.**
+**Privacy is a right, not a privilege. Build with Privacy Coin.**
